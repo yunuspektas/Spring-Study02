@@ -1,8 +1,8 @@
 package com.tpe.thirdparty;
 
-public class ThirtPartComponent {
+public class ThirtPartyComponent {
 	
-	public ThirtPartComponent() {
+	public ThirtPartyComponent() {
 		
 	}
 	
